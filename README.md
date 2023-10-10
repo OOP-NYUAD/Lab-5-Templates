@@ -35,7 +35,7 @@ Certainly! Here's a section in the `README.md` file with a sample input and outp
 
 ## Sample Input and Output
 
-Below is a sample input and output.
+Below is a sample input and output. The autograder will test only the second case (division by 0)
 
 ```
 Enter the numerator: 10
