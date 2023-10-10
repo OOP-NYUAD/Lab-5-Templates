@@ -50,4 +50,3 @@ Exception caught: Division by zero exception
 In the first example, the user enters a numerator of `10` and a denominator of `2`. The program performs the division and displays the result (`5`).
 
 In the second example, the user enters a numerator of `7` and a denominator of `0`. This causes a `DivideByZeroException` to be thrown, and the program catches the exception, displaying the custom error message.
-```
